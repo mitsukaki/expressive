@@ -1,0 +1,20 @@
+{
+  "name": "com.mitsukaki.expressive",
+  "displayName": "Expressive",
+  "version": "0.0.1-beta.1",
+  "unity": "2022.3",
+  "description": "A tool for generating animated facial expressions and more.",
+  "author": {
+    "name": "mitsukaki",
+    "email": "lite260@gmail.com",
+    "url": "https://github.com/mitsukaki/expressive"
+  },
+  "repo": "https://vpm.mitsukaki.com/index.json",
+  "dependencies": { },
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.4.0",
+    "com.vrchat.base": ">=3.4.0",
+    "nadena.dev.ndmf": ">=1.3.6 <2.0.0-a",
+    "nadena.dev.modular-avatar": ">=1.9.0"
+  }
+}
